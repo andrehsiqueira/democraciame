@@ -1,0 +1,7 @@
+%% Para compilar:
+
+latexmk -pvc -pdf main.tex
+
+%% Para limpar aquivos temporários:
+
+latexmk -c

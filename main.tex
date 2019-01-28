@@ -1,0 +1,195 @@
+%% main.tex  
+%% Tema: A transversalidade da Comunicação Social Espírita  
+
+%% ----------------------------------------------------------------
+
+\documentclass[
+	% -- opções da classe memoir --
+	article,			% indica que é um artigo acadêmico
+	11pt,				% tamanho da fonte
+	oneside,			% para impressão apenas no verso. Oposto a twoside
+	a4paper,			% tamanho do papel. 
+	% -- opções da classe abntex2 --
+	%chapter=TITLE,		% títulos de capítulos convertidos em letras maiúsculas
+	%section=TITLE,		% títulos de seções convertidos em letras maiúsculas
+	%subsection=TITLE,	% títulos de subseções convertidos em letras maiúsculas
+	%subsubsection=TITLE % títulos de subsubseções convertidos em letras maiúsculas
+	% -- opções do pacote babel --
+	english,			% idioma adicional para hifenização
+	brazil,				% o último idioma é o principal do documento
+	]{abntex2}
+
+
+% ---
+% PACOTES
+% ---
+
+% ---
+% Pacotes fundamentais 
+% ---
+\usepackage{cmap}				% Mapear caracteres especiais no PDF
+%\usepackage{lmodern}			% Usa a fonte Latin Modern
+\usepackage[sfdefault]{roboto} 
+\usepackage[T1]{fontenc}		% Selecao de codigos de fonte.
+\usepackage[utf8]{inputenc}		% Codificacao do documento (conversão automática dos acentos)
+\usepackage{indentfirst}		% Indenta o primeiro parágrafo de cada seção.
+\usepackage{nomencl} 			% Lista de simbolos
+\usepackage{color}				% Controle das cores
+\usepackage{graphicx}			% Inclusão de gráficos
+% ---
+		
+% ---
+% Pacotes adicionais, usados apenas no âmbito do Modelo Canônico do abnteX2
+% ---
+ \usepackage{lipsum}				% para geração de dummy text
+% ---
+		
+% ---
+% Pacotes de citações
+% ---
+% \usepackage[brazilian,hyperpageref] {backref}	 % Paginas com as citações na bibl
+\usepackage[alf,abnt-full-initials=yes]{abntex2cite}	% Citações padrão ABNT
+% ---
+
+\usepackage{lineno}
+%\linenumbers %% Exibe numero de linhas
+
+
+
+% ---
+% Configurações do pacote backref
+% Usado sem a opção hyperpageref de backref
+% \renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
+% % Texto padrão antes do número das páginas
+% \renewcommand{\backref}{}
+% % Define os textos da citação
+% \renewcommand*{\backrefalt}[4]{
+% 	\ifcase #1 %
+% 		Nenhuma citação no texto.%
+% 	\or
+% 		Citado na página #2.%
+% 	\else
+% 		Citado #1 vezes nas páginas #2.%
+% 	\fi}%
+% % ---
+
+% ---
+% Informações de dados para CAPA e FOLHA DE ROSTO
+% ---
+% \titulo{Modelo Canônico de\\ Artigo científico com \abnTeX}
+% \autor{Equipe \abnTeX\thanks{\url{http://abntex2.googlecode.com/}} \and Lauro
+% César
+% Araujo\thanks{laurocesar@laurocesar.com}}
+% \local{Brasil}
+% \data{2013, v-1.7.1}
+% ---
+
+% ---
+% Configurações de aparência do PDF final
+
+% alterando o aspecto da cor azul
+\definecolor{black}{RGB}{41,5,195}
+
+% informações do PDF
+\makeatletter
+\hypersetup{
+     	%pagebackref=true,
+		pdftitle={\@title}, 
+		pdfauthor={\@author},
+    	pdfsubject={\@title},
+	    pdfcreator={LaTeX with abnTeX2},
+		pdfkeywords={Comunicação Social Espírita}{Espiritismo}, 
+		colorlinks=true,       		% false: boxed links; true: colored links
+    	linkcolor=black,          	% color of internal links
+    	citecolor=black,        		% color of links to bibliography
+    	filecolor=magenta,      		% color of file links
+		urlcolor=black,
+		bookmarksdepth=4
+}
+\makeatother
+% --- 
+
+% ---
+% compila o indice
+% ---
+\makeindex
+% ---
+
+% ---
+% Altera as margens padrões
+% ---
+\setlrmarginsandblock{3cm}{3cm}{*}
+\setulmarginsandblock{3cm}{3cm}{*}
+\checkandfixthelayout
+% ---
+
+% --- 
+% Espaçamentos entre linhas e parágrafos 
+% --- 
+
+% O tamanho do parágrafo é dado por:
+\setlength{\parindent}{1,25cm}
+
+% Controle do espaçamento entre um parágrafo e outro:
+\setlength{\parskip}{1 em}  % tente também \onelineskip ou 0.2cm
+
+% Espaçamento simples
+\SingleSpacing
+
+% ----
+% Início do documento
+% ----
+\begin{document}
+
+% Retira espaço extra obsoleto entre as frases.
+\frenchspacing 
+
+
+
+%% CONFIGURAÇÕES
+%% =============
+ \linenumbers %% Exibe numero de linhas
+%% \modulolinenumbers[2] %% exibe a cada [x] linhas
+
+\citeoption{abnt-repeated-author-omit=yes}
+
+%% ================================
+%% DADOS
+%% ================================
+\titulo{Movimento Espírita e Democracia}
+\autor{Andr\'{e} Henrique de Siqueira}
+\data{Janeiro de 2019}
+
+%% ================================
+%% TITULO
+%% ================================
+
+\begin{center}
+   \textbf{\fontsize{20}{30}\selectfont \MakeUppercase \imprimirtitulo}
+\end{center}
+\vspace{1,3 cm}
+{\hspace*{\fill} \footnotesize \imprimirautor}\\
+{\hspace*{\fill} {\fontsize{8}{9}\selectfont andrehsiqueira@febnet.org.br}}
+
+\vspace{1,5 cm}
+
+
+
+% ----------------------------------------------------------
+% TEXTO DO ARTIGO
+% ----------------------------------------------------------
+\input{texto}
+
+% ----------------------------------------------------------
+% ELEMENTOS PÓS-TEXTUAIS
+% ----------------------------------------------------------
+\postextual
+
+% ----------------------------------------------------------
+% Referências bibliográficas
+% ----------------------------------------------------------
+\bibliography{espiritas,referencias}
+
+
+
+\end{document}
