@@ -1,21 +1,21 @@
 # Fdb version 3
-["bibtex main"] 1549208890 "main.aux" "main.bbl" "main" 1549208892
+["bibtex main"] 1549211298 "main.aux" "main.bbl" "main" 1549211363
   "/Volumes/Aristotelix/@Biblioteca/bib/abntex2-options.bib" 1358728258 5396 4eb260dac60f150ae608d45252853090 ""
   "/usr/local/texlive/2018/texmf-dist/bibtex/bst/abntex2/abntex2-alf.bst" 1543183680 60064 0819ac8568f9a482510a46e3a8a6f605 ""
-  "espiritas.bib" 1549153489 28367 3cb90bdd8fbb2126ff925f1d7398b320 ""
+  "espiritas.bib" 1549211162 28712 df5d84690c5de09c23aca652d37600d4 ""
   "local.bib" 1549160906 2803 ed2e3e8c3988e921073ed4b5808ffce9 ""
-  "main.aux" 1549208892 3133 67900d84d9b27ec0d21320a7f00382c7 ""
+  "main.aux" 1549211363 3281 601b43ee744b94fee92a125c328ad448 ""
   "referencias.bib" 1549153489 256606 cf5d08050adf3080025d5bdc172976f1 ""
   (generated)
   "main.bbl"
   "main.blg"
-["makeindex main.idx"] 1548726702 "main.idx" "main.ind" "main" 1549208892
-  "main.idx" 1549208891 0 d41d8cd98f00b204e9800998ecf8427e ""
+["makeindex main.idx"] 1548726702 "main.idx" "main.ind" "main" 1549211363
+  "main.idx" 1549211362 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
-  "main.ilg"
   "main.ind"
-["pdflatex"] 1549208890 "main.tex" "main.pdf" "main" 1549208892
-  "/dev/null" 1549208892 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "main.ilg"
+["pdflatex"] 1549211362 "main.tex" "main.pdf" "main" 1549211363
+  "/dev/null" 1549211354 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/roboto/rbto_idpkzy.enc" 1480098668 3004 7f0b6d64f4aad2c4d93123e3f1e8cecc ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Bold-lf-t1--base.tfm" 1480098692 1852 f1970c63d463d85d0214d493bc6c9cac ""
@@ -28,6 +28,7 @@
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
+  "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm" 1136768653 1524 d89e2d087a9828407a196f428428ef4a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1136768653 1300 b62933e007d01cfd073f79b963c01526 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1136768653 1292 21c1c5bfeaebccffdb478fd231a0997d ""
@@ -35,6 +36,7 @@
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm" 1136768653 1116 25a7bf822c58caf309a702ef79f4afbb ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb" 1480098732 261942 5e2b4f3564e8ff68d24ea766fb39955e ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/google/roboto/Roboto-Italic.pfb" 1480098732 285583 16ef459114f9881045ac2a13cab6619e ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/google/roboto/Roboto-Regular.pfb" 1480098732 263301 de158c78c621a755e259d7dd45aee9b0 ""
@@ -127,13 +129,13 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1549167162 3235876 5879de7f4955e9545a34328996f23c71 ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1549167249 4227022 742052067c9f9c0fdf024bfbd2af92d7 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "main.aux" 1549208892 3133 67900d84d9b27ec0d21320a7f00382c7 ""
-  "main.bbl" 1549208890 3198 841d898dded979ab7d9e6b37ae1bd0f6 "bibtex main"
+  "main.aux" 1549211363 3281 601b43ee744b94fee92a125c328ad448 ""
+  "main.bbl" 1549211298 3460 caed3aebb739510a973af06a8b013b7b "bibtex main"
   "main.ind" 1548726702 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
   "main.tex" 1549161076 5143 0bb68f1fece99acbe846daa82a69add6 ""
-  "texto.tex" 1549208887 12925 48d9cdee4ce9563367e62bd31a5a77d6 ""
+  "texto.tex" 1549211361 14058 c95e38f08da43cd05dfe7c441e25602a ""
   (generated)
-  "main.aux"
-  "main.idx"
-  "main.pdf"
   "main.log"
+  "main.pdf"
+  "main.idx"
+  "main.aux"

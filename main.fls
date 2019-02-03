@@ -206,9 +206,6 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/google/roboto/Roboto-Bold-lf-t
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Bold-lf-t1--base.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/google/roboto/Roboto-Italic-lf-t1.vf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Italic-lf-t1--base.tfm
-INPUT main.bbl
-INPUT main.bbl
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Regular-lf-t1.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/cmap/ot1.cmap
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/cmap/ot1.cmap
@@ -225,6 +222,14 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/mmap/omx.cmap
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/mmap/omx.cmap
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Regular-lf-t1.tfm
+INPUT main.bbl
+INPUT main.bbl
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/google/roboto/Roboto-Regular-lf-t1.vf
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Regular-lf-t1--base.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Regular-lf-t1.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/google/roboto/Roboto-Regular-lf-t1.vf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Regular-lf-t1--base.tfm
 INPUT main.aux
