@@ -1,21 +1,21 @@
 # Fdb version 3
-["bibtex main"] 1549211298 "main.aux" "main.bbl" "main" 1549211363
+["bibtex main"] 1549229554 "main.aux" "main.bbl" "main" 1549230133
   "/Volumes/Aristotelix/@Biblioteca/bib/abntex2-options.bib" 1358728258 5396 4eb260dac60f150ae608d45252853090 ""
   "/usr/local/texlive/2018/texmf-dist/bibtex/bst/abntex2/abntex2-alf.bst" 1543183680 60064 0819ac8568f9a482510a46e3a8a6f605 ""
   "espiritas.bib" 1549211162 28712 df5d84690c5de09c23aca652d37600d4 ""
-  "local.bib" 1549160906 2803 ed2e3e8c3988e921073ed4b5808ffce9 ""
-  "main.aux" 1549211363 3281 601b43ee744b94fee92a125c328ad448 ""
+  "local.bib" 1549228166 2835 f5596265af19781604f49875a0a87ef6 ""
+  "main.aux" 1549229556 3452 5a93836666853dfe9951ab18d48024f6 ""
   "referencias.bib" 1549153489 256606 cf5d08050adf3080025d5bdc172976f1 ""
   (generated)
   "main.bbl"
   "main.blg"
-["makeindex main.idx"] 1548726702 "main.idx" "main.ind" "main" 1549211363
-  "main.idx" 1549211362 0 d41d8cd98f00b204e9800998ecf8427e ""
+["makeindex main.idx"] 1548726702 "main.idx" "main.ind" "main" 1549230133
+  "main.idx" 1549229555 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
-  "main.ind"
   "main.ilg"
-["pdflatex"] 1549211362 "main.tex" "main.pdf" "main" 1549211363
-  "/dev/null" 1549211354 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "main.ind"
+["pdflatex"] 1549229555 "main.tex" "main.pdf" "main" 1549230133
+  "/dev/null" 1549230127 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/roboto/rbto_idpkzy.enc" 1480098668 3004 7f0b6d64f4aad2c4d93123e3f1e8cecc ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Bold-lf-t1--base.tfm" 1480098692 1852 f1970c63d463d85d0214d493bc6c9cac ""
@@ -129,13 +129,13 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1549167162 3235876 5879de7f4955e9545a34328996f23c71 ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1549167249 4227022 742052067c9f9c0fdf024bfbd2af92d7 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "main.aux" 1549211363 3281 601b43ee744b94fee92a125c328ad448 ""
-  "main.bbl" 1549211298 3460 caed3aebb739510a973af06a8b013b7b "bibtex main"
+  "main.aux" 1549229556 3452 5a93836666853dfe9951ab18d48024f6 ""
+  "main.bbl" 1549229555 3688 2d63de4ccac1621dbe5dbc56b19b59b9 "bibtex main"
   "main.ind" 1548726702 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
   "main.tex" 1549161076 5143 0bb68f1fece99acbe846daa82a69add6 ""
-  "texto.tex" 1549211361 14058 c95e38f08da43cd05dfe7c441e25602a ""
+  "texto.tex" 1549230132 14181 229debb17537aace30db852d4659db9f ""
   (generated)
+  "main.idx"
   "main.log"
   "main.pdf"
-  "main.idx"
   "main.aux"
