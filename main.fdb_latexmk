@@ -1,21 +1,21 @@
 # Fdb version 3
-["bibtex main"] 1549161078 "main.aux" "main.bbl" "main" 1549161080
+["bibtex main"] 1549208890 "main.aux" "main.bbl" "main" 1549208892
   "/Volumes/Aristotelix/@Biblioteca/bib/abntex2-options.bib" 1358728258 5396 4eb260dac60f150ae608d45252853090 ""
   "/usr/local/texlive/2018/texmf-dist/bibtex/bst/abntex2/abntex2-alf.bst" 1543183680 60064 0819ac8568f9a482510a46e3a8a6f605 ""
   "espiritas.bib" 1549153489 28367 3cb90bdd8fbb2126ff925f1d7398b320 ""
   "local.bib" 1549160906 2803 ed2e3e8c3988e921073ed4b5808ffce9 ""
-  "main.aux" 1549161080 3133 9a43f27341a498fc90a3c0fccca89d66 ""
+  "main.aux" 1549208892 3133 67900d84d9b27ec0d21320a7f00382c7 ""
   "referencias.bib" 1549153489 256606 cf5d08050adf3080025d5bdc172976f1 ""
   (generated)
-  "main.blg"
   "main.bbl"
-["makeindex main.idx"] 1548726702 "main.idx" "main.ind" "main" 1549161080
-  "main.idx" 1549161079 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "main.blg"
+["makeindex main.idx"] 1548726702 "main.idx" "main.ind" "main" 1549208892
+  "main.idx" 1549208891 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
   "main.ilg"
   "main.ind"
-["pdflatex"] 1549161078 "main.tex" "main.pdf" "main" 1549161080
-  "/dev/null" 1549161079 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1549208890 "main.tex" "main.pdf" "main" 1549208892
+  "/dev/null" 1549208892 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/roboto/rbto_idpkzy.enc" 1480098668 3004 7f0b6d64f4aad2c4d93123e3f1e8cecc ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Bold-lf-t1--base.tfm" 1480098692 1852 f1970c63d463d85d0214d493bc6c9cac ""
@@ -86,9 +86,9 @@
   "/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty" 1465687530 12949 81e4e808884a8f0e276b69410e234656 ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def" 1543704539 14098 b4e1ecab4699a0341b8e1349e4c53fb1 ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/ifetex/ifetex.sty" 1522621847 1584 2696473ec8e751e1848d791d84b1e6e2 ""
-  "/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex" 1547503597 964610 acac9473d1218701006b63c516e56705 ""
-  "/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty" 1547503597 9867 0589a95cc60b62064410513c43ddf76e ""
-  "/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def" 1547503597 16255 099bfd2e72491c1f09a481d1d19c39aa ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex" 1548713277 972024 fd41237dd924281bb6e054d05ceae0f6 ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty" 1548713277 9824 3d98d54ddca05900fec99cbfcadab0c6 ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def" 1548713277 16212 b57a98e68870cee3182a4ba993f8f715 ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1539894719 78679 0f13caccf8fc0a14ee080e185fe4bd6e ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg" 1480098833 678 4792914a8f45be57bb98413425e4c7af ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg" 1480098833 235 6031e5765137be07eed51a510b2b8fb7 ""
@@ -124,16 +124,16 @@
   "/usr/local/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1480098843 4962 9c1069474ff71dbc47d5006555e352d3 ""
   "/usr/local/texlive/2018/texmf-dist/tex/plain/ifetex/ifetex.tex" 1522621847 1178 13842cd1b714a921af7920503db5625a ""
   "/usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf" 1544742277 35176 ce7fee66be1fb01dfc6b702a7dbfa0ea ""
-  "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1548728516 3235858 e1c636684541514a1a36651837cadfb0 ""
-  "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1548728617 4227023 0c04b6b3a4e470a78800c8eabce07823 ""
+  "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1549167162 3235876 5879de7f4955e9545a34328996f23c71 ""
+  "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1549167249 4227022 742052067c9f9c0fdf024bfbd2af92d7 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "main.aux" 1549161080 3133 9a43f27341a498fc90a3c0fccca89d66 ""
-  "main.bbl" 1549161078 3198 841d898dded979ab7d9e6b37ae1bd0f6 "bibtex main"
+  "main.aux" 1549208892 3133 67900d84d9b27ec0d21320a7f00382c7 ""
+  "main.bbl" 1549208890 3198 841d898dded979ab7d9e6b37ae1bd0f6 "bibtex main"
   "main.ind" 1548726702 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
   "main.tex" 1549161076 5143 0bb68f1fece99acbe846daa82a69add6 ""
-  "texto.tex" 1549160928 11226 7b43e543c834f166e5d7f9817eb8252c ""
+  "texto.tex" 1549208887 12925 48d9cdee4ce9563367e62bd31a5a77d6 ""
   (generated)
   "main.aux"
   "main.idx"
-  "main.log"
   "main.pdf"
+  "main.log"

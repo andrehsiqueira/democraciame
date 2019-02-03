@@ -195,6 +195,8 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/google/roboto/Roboto-Regular-l
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Regular-lf-t1--base.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/google/roboto/Roboto-Regular-lf-t1.vf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Regular-lf-t1--base.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/google/roboto/Roboto-Bold-lf-t1.vf
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Bold-lf-t1--base.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Italic-lf-t1.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Bold-lf-t1.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Italic-lf-t1.tfm
