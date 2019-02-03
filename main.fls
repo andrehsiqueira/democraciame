@@ -1,4 +1,4 @@
-PWD /Volumes/Aristotelix/@Biblioteca/Artigos - Andre Henrique de Siqueira/2019 Espiritismo e Democracia/latex
+PWD /Volumes/Aristotelix/@Google Drive/@Trabalhando/2019 Espiritismo e Democracia/latex
 INPUT /usr/local/texlive/2018/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -184,10 +184,8 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Bold-lf-
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Bold-lf-t1.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Regular-lf-t1.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Regular-lf-t1.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Regular-lf-t1.tfm
 INPUT texto.tex
 INPUT texto.tex
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Italic-lf-t1.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/google/roboto/Roboto-Bold-lf-t1.vf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Bold-lf-t1--base.tfm
 INPUT /usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -197,8 +195,7 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/google/roboto/Roboto-Regular-l
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Regular-lf-t1--base.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/google/roboto/Roboto-Regular-lf-t1.vf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Regular-lf-t1--base.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/google/roboto/Roboto-Regular-lf-t1.vf
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Regular-lf-t1--base.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Italic-lf-t1.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Bold-lf-t1.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/google/roboto/Roboto-Italic-lf-t1.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/google/roboto/Roboto-Italic-lf-t1.vf
